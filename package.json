@@ -29,31 +29,15 @@
     "check": "bun run typecheck && bun test"
   },
   "dependencies": {
-    "@opencode/plugin": "^2.2.7"
-  },
-  "peerDependencies": {
-    "@opentui/core": ">=0.8.1",
-    "@opentui/solid": ">=0.8.1",
-    "solid-js": ">=1.9.0"
-  },
-  "peerDependenciesMeta": {
-    "@opentui/core": {
-      "optional": true
-    },
-    "@opentui/solid": {
-      "optional": true
-    },
-    "solid-js": {
-      "optional": true
-    }
+    "@opencode/plugin": "^2.2.7",
+    "@opentui/core": "^0.8.4",
+    "@opentui/solid": "^0.8.4",
+    "solid-js": "^1.9.19"
   },
   "devDependencies": {
     "@opencode/theme": "^2.2.7",
-    "@opentui/core": "^0.8.4",
-    "@opentui/solid": "^0.8.4",
     "@types/bun": "^1.4.4",
     "@types/node": "^24.19.2",
-    "solid-js": "^1.9.19",
     "typescript": "^5.9.3"
   }
 }
