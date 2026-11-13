@@ -2,6 +2,10 @@
 
 A full-screen, theme-aware startup splash for the [OpenCode](https://opencode.ai) TUI, with configurable ASCII art for large, medium, and small terminals.
 
+## Demo
+
+![opencode-splash demo showing the rainbow example art](doc/splash.gif)
+
 ## Requirements
 
 - OpenCode 2.2 or newer
