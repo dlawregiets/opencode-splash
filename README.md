@@ -2,16 +2,6 @@
 
 A full-screen, theme-aware startup splash for the [OpenCode](https://opencode.ai) TUI, with configurable ASCII art for large, medium, and small terminals.
 
-The banner below is example art. The plugin only shows a splash when at least one art path is configured.
-
-```text
-█████ ████  █      ███  █████ █   █
-█     █   █ █     █   █ █     █   █
-█████ ████  █     █████ █████ █████
-    █ █     █     █   █     █ █   █
-█████ █     █████ █   █ █████ █   █
-```
-
 ## Requirements
 
 - OpenCode 2.2 or newer
