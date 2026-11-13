@@ -5,11 +5,11 @@ A full-screen, theme-aware startup splash for the [OpenCode](https://opencode.ai
 The banner below is example art. The plugin only shows a splash when at least one art path is configured.
 
 ```text
- █████  ██████  ██       █████   █████  ██   ██
-██      ██   ██ ██      ██   ██ ██      ██   ██
- █████  ██████  ██      ███████  █████  ███████
-    ██  ██      ██      ██   ██     ██  ██   ██
-█████   ██      ███████ ██   ██ █████   ██   ██
+█████ ████  █      ███  █████ █   █
+█     █   █ █     █   █ █     █   █
+█████ ████  █     █████ █████ █████
+    █ █     █     █   █     █ █   █
+█████ █     █████ █   █ █████ █   █
 ```
 
 ## Requirements
